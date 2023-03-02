@@ -1,1 +1,1 @@
-Detailed readme
+Detailed README
